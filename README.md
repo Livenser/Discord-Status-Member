@@ -16,7 +16,7 @@
     <br>
     <li>
       <strong>Buka folder project di VSCode atau editor kesayangan lu</strong><br>
-      Masuk ke folder <code>main</code> yang udah diextract tadi. Buka aja langsung dari editor yang biasa lu pake, contohnya VSCode.
+      Masuk ke folder <code>status</code> yang udah diextract tadi. Buka aja langsung dari editor yang biasa lu pake, contohnya VSCode.
     </li>
     <br>
     <li>
@@ -29,7 +29,7 @@
       <strong>Jalankan file <code>main.py</code></strong><br>
       Sekarang tinggal buka terminal, terus jalanin:
       <pre><code>python main.py</code></pre>
-      Kalau semuanya bener, bot lu bakal online dan siap pake slash command.
+      Kalau Semuanya benar, Selamat bot lu akan memiliki status untuk member server lu.
     </li>
     <br>
     <li>
@@ -37,6 +37,3 @@
       Bot lu sekarang udah punya fitur slash command. Gampang kan? Tinggal dijalanin aja.
     </li>
   </ol>
-
-  <p style="text-align: center; font-style: italic;">Kalau ada yang bingung, tinggal dicek pelan-pelan aja langkahnya. Good luck, bro! 🚀</p>
-</div>
